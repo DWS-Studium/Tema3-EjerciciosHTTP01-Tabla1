@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio01",
+  "version": "1.0.0",
+  "description": "Crear una aplicación web en NodeJS que imprima por pantalla las tablas de multiplicar del 0 al 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Carballo",
+  "license": "ISC"
+}
